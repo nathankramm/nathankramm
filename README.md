@@ -6,7 +6,7 @@ Cardiac technician in digital health (ECG analysis). I build and test open-sourc
 
 - **[I-29 — a back-seat movie player](https://gist.github.com/nathankramm/cfa7a4312d13fe267b94f52a6c79b338)**: one script turns a tablet into a touch-only, offline movie player for kids in the car, with resume, sleep and battery tuned and measured. *Microsoft Surface Go 2 · Ubuntu 26.04 · GNOME 50 · mpv*
 - **[Lost River](https://gist.github.com/nathankramm/fc86866ccbc4a9cb933039097bcfbd00)**: a light, quiet, Mac-like desktop, built and measured, including the T2 kernel, Wi-Fi firmware and audio steps. *2018 MacBook Air (T2) · Linux Mint 22.3 Xfce*
-- **[CPU-only home server for AI + automation](https://gist.github.com/nathankramm/a278f945449ba77ce23fe2354f3a773a)**: one mini workstation running a self-hosted AI agent, Home Assistant and car telemetry, with no GPU and nothing exposed to the internet. *Minisforum MS-02 Ultra · Intel Core Ultra 9 285HX · Ubuntu Server 24.04 · Incus · Home Assistant OS · Ollama*
+- **[CPU-only home server for AI + automation](https://gist.github.com/nathankramm/a278f945449ba77ce23fe2354f3a773a)**: one mini workstation running a self-hosted AI agent, Home Assistant and car telemetry, with no GPU and nothing exposed to the internet. *Minisforum MS-02 Ultra · Intel Core Ultra 9 285HX · Ubuntu Server 26.04 · Incus · Home Assistant OS · Ollama*
 - **[Diagnosing IPU6/IPU7 laptop cameras on Linux](https://gist.github.com/nathankramm/70f5c06e027d07bcd84df539e81f5e04)**: which camera checks give false answers on Intel's MIPI camera stack, and what to measure instead. *Intel IPU6 / IPU7 · v4l2-relayd · v4l2loopback · Arch Linux · Dell XPS*
 
 ## Projects
