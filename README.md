@@ -11,6 +11,7 @@ Cardiac technician in digital health (ECG analysis). I build and test open-sourc
 
 ## Projects
 
+- **[Vitruvian](https://github.com/nathankramm/omarchy-vitruvian-health)**: your wearables, labs and tape measurements in one index on your machine, measured against the ideal body for your height; your own AI agent writes the training plan. *Omarchy · Quickshell · Python · Claude Code*
 - **[Yoru](https://github.com/nathankramm/yoru)**: a pixel deer in the corner of your screen that teaches you Omarchy, follows your theme, and goes quiet when asked. *Omarchy · Arch Linux · Hyprland · GTK4*
 - **[Pupa](https://github.com/nathankramm/omarchy-monarch-money)**: Monarch Money spending on your Omarchy bar, read-only, meant as a starting point to fork. *Omarchy · Hyprland · Quickshell · Monarch Money*
 - **[Kanso Screen Time](https://github.com/nathankramm/omarchy-kanso-screen-time)**: per-app screen time recorded quietly to one local file and shown in a hover card on the bar. *Omarchy · Hyprland · Quickshell · Wayland*
